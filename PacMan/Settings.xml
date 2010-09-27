@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Records>
+    <best place="1" nick="Player1">6240</best>
+    <best place="2" nick="Player1">1290</best>
+    <best place="3" nick="Player1">150</best>
+  </Records>
+  <DefNick>Player1</DefNick>
+</Settings>
